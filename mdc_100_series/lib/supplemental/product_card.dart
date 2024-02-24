@@ -106,7 +106,7 @@ class ProductCard extends StatelessWidget {
                 ),
               );
             },
-            child: Text('Beli Sekarang'),
+            child: Text('Beli'),
             style: ElevatedButton.styleFrom(
               primary: Colors.black,
               onPrimary: Colors.white,
